@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eptheekshana&label=Profile%20views&color=0e75b6&style=flat" alt="eptheekshana" /> </p>
 
 
-👋 Hi, I’m E P Theekshana
+Hi, I’m E P Theekshana
 
 🎓 Computer Science Student | 💡 Aspiring Entrepreneur<br>💻 Passionate about coding, learning, and building impactful tech<br>🌱 Currently exploring Java, Python, Web Development, and Linux<br>🚀 Always up for new challenges and real-world projects
 
