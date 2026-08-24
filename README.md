@@ -77,5 +77,5 @@
 
 <p align="center">
   <a href="https://coff.ee/pasinduet"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
-  <a href="https://patreon.com/pasinduet"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" /></a>
+ 
 </p>
