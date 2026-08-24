@@ -50,20 +50,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eptheekshana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
-
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=eptheekshana&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
 <h3 align="center">📬 Connect With Me</h3>
 
 <p align="center">
