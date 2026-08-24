@@ -52,11 +52,15 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eptheekshana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=eptheekshana&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eptheekshana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
+
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=eptheekshana&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
 
 ---
 
