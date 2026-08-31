@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=eptheekshana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
----
 
 <h3 align="center">👨‍💻 About Me</h3>
 
@@ -60,7 +59,6 @@
   <img src="https://img.shields.io/badge/Cryptography-5C2D91?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Cryptography" />
 </p>
 
----
 
 <h3 align="center">📬 Connect With Me</h3>
 
