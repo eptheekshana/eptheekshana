@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Cloud+Architecture+Enthusiast;Building+Impactful+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Founder+of+Encrypz;Cloud+Architecture+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,14 +14,15 @@
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-  I am a passionate software engineer focused on building robust web applications, scalable cloud infrastructure, and secure systems. Always learning, exploring modern architectures, and bringing real-world projects to life.
+  I am a passionate software engineer focused on building robust web applications, scalable cloud infrastructure, and secure systems. As the founder of <a href="https://github.com/encrypz"><b>Encrypz</b></a>, I am actively developing solutions centered around zero-knowledge encrypted file storage. Always learning, exploring modern architectures, and bringing real-world projects to life.
 </p>
 
 <p align="center">
+  🚀 <b>Founder:</b> <a href="https://github.com/encrypz">Encrypz</a><br>
   🎓 <b>Studying:</b> Computer Science & Software Engineering<br>
   💻 <b>Focus:</b> Backend Architecture, APIs, & Cloud Deployments<br>
   🐧 <b>Daily Driver:</b> Linux (Ubuntu)<br>
-  🌱 <b>Currently Exploring:</b> Zero-knowledge encryption & advanced system design
+  🌱 <b>Currently Exploring:</b> Advanced system design & modern cryptography
 </p>
   
 
@@ -29,30 +30,26 @@
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <br>
-  <!-- OS & SysAdmin -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" />
   <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logoColor=white" alt="SSH" />
   <img src="https://img.shields.io/badge/PuTTY-024097?style=for-the-badge&logoColor=white" alt="PuTTY" />
   <br>
-  <!-- DevOps & Cloud -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <br>
-  <!-- Frameworks, Tools, Hardware & Security -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
