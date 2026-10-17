@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eptheekshana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
 
 
 <h3 align="center">👨‍💻 About Me</h3>
