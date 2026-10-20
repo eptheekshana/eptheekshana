@@ -15,7 +15,6 @@
 </p>
 
 <p align="center">
-  🚀 <b>Founder:</b> <a href="https://github.com/encrypz">Encrypz</a><br>
   🎓 <b>Studying:</b> Computer Science & Software Engineering<br>
   💻 <b>Focus:</b> Backend Architecture, APIs, & Cloud Deployments<br>
   🐧 <b>Daily Driver:</b> Linux (Ubuntu)<br>
