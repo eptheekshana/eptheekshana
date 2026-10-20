@@ -68,6 +68,6 @@
 <h3 align="center">☕ Support My Work</h3>
 
 <p align="center">
-  <a href="https://coff.ee/pasinduet"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
- 
+  <a href="https://github.com/sponsors/eptheekshana"><img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+  <a href="https://coff.ee/eptheekshana"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
 </p>
