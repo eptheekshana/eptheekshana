@@ -1,70 +1,86 @@
-<h1 align="center">E P Theekshana</h1>
+<div align="center">
+  <h1>E P THEEKSHANA</h1>
+  <p><code>SOFTWARE ENGINEER</code> &nbsp;·&nbsp; <code>CLOUD ARCHITECTURE</code> &nbsp;·&nbsp; <code>FOUNDER @ ENCRYPZ</code></p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Software+Engineer;Founder+of+Encrypz;Cloud+%26+Security+Architecture" alt="Typing SVG" />
-  </a>
-</p>
+  <br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/eptheekshana"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://x.com/eptheekshana"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://instagram.com/eptheekshana"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-  <a href="https://facebook.com/eptheekshana"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
-  <a href="https://tiktok.com/@eptheekshana"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:hello@eptheekshana.dev"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-</p>
+  <!-- Minimalist Monochrome Social Icons (No Boxes) -->
+  <p>
+    <a href="https://linkedin.com/in/eptheekshana"><img src="https://cdn.simpleicons.org/linkedin/A1A1AA" width="20" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://x.com/eptheekshana"><img src="https://cdn.simpleicons.org/x/A1A1AA" width="20" height="20" alt="X" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/eptheekshana"><img src="https://cdn.simpleicons.org/instagram/A1A1AA" width="20" height="20" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://facebook.com/eptheekshana"><img src="https://cdn.simpleicons.org/facebook/A1A1AA" width="20" height="20" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://tiktok.com/@eptheekshana"><img src="https://cdn.simpleicons.org/tiktok/A1A1AA" width="20" height="20" alt="TikTok" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:eptheekshana@gmail.com"><img src="https://cdn.simpleicons.org/gmail/A1A1AA" width="20" height="20" alt="Email" /></a>
+  </p>
+</div>
 
 <hr>
 
-<h3 align="center">About Me</h3>
+### `01` // Architecture & Focus
 
-<p align="center">
-  I am a software engineer focused on building robust web applications, scalable cloud infrastructure, and secure systems. As the founder of <a href="https://github.com/encrypz"><b>Encrypz</b></a>, I am actively developing solutions centered around zero-knowledge encrypted file storage. Always learning, exploring modern architectures, and bringing real-world projects to life.
-</p>
+I engineer resilient web platforms, scalable cloud infrastructure, and zero-knowledge security systems. As the founder of [**Encrypz**](https://github.com/encrypz), my core work centers on client-side authenticated encryption and privacy-preserving cloud storage.
 
-<p align="center">
-  <b>Studying:</b> Computer Science & Software Engineering &nbsp;|&nbsp; <b>Daily Driver:</b> Linux (Ubuntu)<br>
-  <b>Focus:</b> Backend Architecture, APIs, Cloud Deployments & Modern Cryptography
-</p>
+* **Academic Track:** Computer Science & Software Engineering
+* **Primary Focus:** Backend Architecture, Distributed APIs & Cloud-Native Deployments
+* **Host Environment:** Ubuntu Linux
+* **Active Research:** Modern Cryptography & Zero-Knowledge Systems
 
-<br>
+---
 
-<h3 align="center">Tech Stack & Infrastructure</h3>
+### `02` // Technical Specification
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=512BD4" alt="C#" />
-  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <br>
-  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Shell Scripting" />
-  <img src="https://img.shields.io/badge/SSH-0D1117?style=for-the-badge&logo=openssh&logoColor=white" alt="SSH" />
-  <img src="https://img.shields.io/badge/PuTTY-0D1117?style=for-the-badge&logo=putty&logoColor=024097" alt="PuTTY" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0D1117?style=for-the-badge&logo=digitalocean&logoColor=0080FF" alt="DigitalOcean" />
-  <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="GCP" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <br>
-  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/JetBrains-0D1117?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
-  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Cryptography-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=003A70" alt="Cryptography" />
-</p>
+<table>
+  <tr>
+    <td width="160"><b>Core Languages</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/openjdk/E4E4E7" width="16" height="16" align="center" /> <code>Java</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/python/E4E4E7" width="16" height="16" align="center" /> <code>Python</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/dotnet/E4E4E7" width="16" height="16" align="center" /> <code>C#</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/cplusplus/E4E4E7" width="16" height="16" align="center" /> <code>C++</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/typescript/E4E4E7" width="16" height="16" align="center" /> <code>TypeScript</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/javascript/E4E4E7" width="16" height="16" align="center" /> <code>JavaScript</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/html5/E4E4E7" width="16" height="16" align="center" /> <code>HTML5</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Orchestration</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/docker/E4E4E7" width="16" height="16" align="center" /> <code>Docker</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/kubernetes/E4E4E7" width="16" height="16" align="center" /> <code>Kubernetes</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/digitalocean/E4E4E7" width="16" height="16" align="center" /> <code>DigitalOcean</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/googlecloud/E4E4E7" width="16" height="16" align="center" /> <code>Google Cloud</code> &nbsp;
+      <code>AWS</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Systems & Runtime</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/linux/E4E4E7" width="16" height="16" align="center" /> <code>Linux</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/ubuntu/E4E4E7" width="16" height="16" align="center" /> <code>Ubuntu</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/gnubash/E4E4E7" width="16" height="16" align="center" /> <code>Bash</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/openssh/E4E4E7" width="16" height="16" align="center" /> <code>OpenSSH</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/putty/E4E4E7" width="16" height="16" align="center" /> <code>PuTTY</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Tooling</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/springboot/E4E4E7" width="16" height="16" align="center" /> <code>Spring Boot</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/git/E4E4E7" width="16" height="16" align="center" /> <code>Git</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/jetbrains/E4E4E7" width="16" height="16" align="center" /> <code>JetBrains</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/arduino/E4E4E7" width="16" height="16" align="center" /> <code>Arduino</code> &nbsp;
+      <img src="https://cdn.simpleicons.org/letsencrypt/E4E4E7" width="16" height="16" align="center" /> <code>Cryptography</code>
+    </td>
+  </tr>
+</table>
 
-<br>
+---
 
-<h3 align="center">Support My Work</h3>
+### `03` // Patronage
 
-<p align="center">
-  <a href="https://github.com/sponsors/eptheekshana"><img src="https://img.shields.io/badge/GitHub_Sponsors-0D1117?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA" alt="GitHub Sponsors" /></a>
-  <a href="https://coff.ee/eptheekshana"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-0D1117?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me A Coffee" /></a>
+<p>
+  <a href="https://github.com/sponsors/eptheekshana"><img src="https://cdn.simpleicons.org/githubsponsors/E4E4E7" width="16" height="16" align="center" /> <b>GitHub Sponsors</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://coff.ee/eptheekshana"><img src="https://cdn.simpleicons.org/buymeacoffee/E4E4E7" width="16" height="16" align="center" /> <b>Buy Me A Coffee</b></a>
 </p>
