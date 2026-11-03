@@ -1,64 +1,36 @@
-<h1 align="center">E P Theekshana</h1>
-<p align="center">
-  <b>Computer Science Undergraduate · Full-Stack Developer · Founder of <a href="https://github.com/encrypz">Encrypz</a></b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/eptheekshana"><img src="https://img.shields.io/badge/LinkedIn-27272A?style=flat&logo=linkedin&logoColor=A1A1AA" alt="LinkedIn" /></a>
-  <a href="https://x.com/eptheekshana"><img src="https://img.shields.io/badge/X-27272A?style=flat&logo=x&logoColor=A1A1AA" alt="X" /></a>
-  <a href="https://instagram.com/eptheekshana"><img src="https://img.shields.io/badge/Instagram-27272A?style=flat&logo=instagram&logoColor=A1A1AA" alt="Instagram" /></a>
-  <a href="https://facebook.com/eptheekshana"><img src="https://img.shields.io/badge/Facebook-27272A?style=flat&logo=facebook&logoColor=A1A1AA" alt="Facebook" /></a>
-  <a href="https://tiktok.com/@eptheekshana"><img src="https://img.shields.io/badge/TikTok-27272A?style=flat&logo=tiktok&logoColor=A1A1AA" alt="TikTok" /></a>
-  <a href="mailto:eptheekshana@gmail.com"><img src="https://img.shields.io/badge/Email-27272A?style=flat&logo=gmail&logoColor=A1A1AA" alt="Email" /></a>
-</p>
+<div align="center">
+  <h1>E P Theekshana</h1>
+  <p><b>Software Engineer · Cloud & Security Architecture · Founder of <a href="https://github.com/encrypz">Encrypz</a></b></p>
+  
+  <p>
+    <a href="https://linkedin.com/in/eptheekshana"><img src="https://img.shields.io/badge/-LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
+    <a href="https://x.com/eptheekshana"><img src="https://img.shields.io/badge/-X-0F172A?style=flat-square&logo=x&logoColor=F8FAFC" alt="X" /></a>
+    <a href="https://instagram.com/eptheekshana"><img src="https://img.shields.io/badge/-Instagram-0F172A?style=flat-square&logo=instagram&logoColor=F8FAFC" alt="Instagram" /></a>
+    <a href="https://facebook.com/eptheekshana"><img src="https://img.shields.io/badge/-Facebook-0F172A?style=flat-square&logo=facebook&logoColor=38BDF8" alt="Facebook" /></a>
+    <a href="https://tiktok.com/@eptheekshana"><img src="https://img.shields.io/badge/-TikTok-0F172A?style=flat-square&logo=tiktok&logoColor=F8FAFC" alt="TikTok" /></a>
+    <a href="mailto:eptheekshana@gmail.com"><img src="https://img.shields.io/badge/-Email-0F172A?style=flat-square&logo=gmail&logoColor=F8FAFC" alt="Email" /></a>
+  </p>
+</div>
 
 <hr>
 
-### Overview
+### Profile Summary
 
-I am a software engineer focused on building robust web applications, scalable cloud infrastructure, and secure systems. As the founder of [**Encrypz**](https://github.com/encrypz), I am actively developing solutions centered around zero-knowledge encrypted file storage.
+Passionate software engineer focused on building robust web applications, scalable cloud infrastructure, and zero-knowledge security systems. Currently pursuing a degree in Computer Science & Software Engineering while leading development at [**Encrypz**](https://github.com/encrypz).
 
-- **Education:** Computer Science & Software Engineering
-- **Core Focus:** Backend Architecture, APIs, & Cloud Deployments
-- **Environment:** Linux (Ubuntu)
-- **Research & Exploration:** Advanced system design & modern cryptography
+* **Focus Areas:** Backend Architecture, RESTful APIs, Cloud Deployments, Client-Side Cryptography
+* **Primary Environment:** Ubuntu Linux
 
----
+### Technical Stack
 
-### Languages, Infrastructure & Tools
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-334155?style=flat-square&labelColor=0F172A&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-334155?style=flat-square&labelColor=0F172A&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-334155?style=flat-square&labelColor=0F172A&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-334155?style=flat-square&labelColor=0F172A&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-334155?style=flat-square&labelColor=0F172A&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-334155?style=flat-square&labelColor=0F172A&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-334155?style=flat-square&labelColor=0F172A&logo=html5&logoColor=white) |
+| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-334155?style=flat-square&labelColor=0F172A&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-334155?style=flat-square&labelColor=0F172A&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-334155?style=flat-square&labelColor=0F172A&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-334155?style=flat-square&labelColor=0F172A&logo=googlecloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-334155?style=flat-square&labelColor=0F172A&logo=digitalocean&logoColor=white) |
+| **Systems & Shell** | ![Linux](https://img.shields.io/badge/-Linux-334155?style=flat-square&labelColor=0F172A&logo=linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-334155?style=flat-square&labelColor=0F172A&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-334155?style=flat-square&labelColor=0F172A&logo=gnubash&logoColor=white) ![SSH](https://img.shields.io/badge/-SSH-334155?style=flat-square&labelColor=0F172A&logo=openssh&logoColor=white) ![PuTTY](https://img.shields.io/badge/-PuTTY-334155?style=flat-square&labelColor=0F172A&logo=putty&logoColor=white) |
+| **Frameworks & Tools** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-334155?style=flat-square&labelColor=0F172A&logo=springboot&logoColor=white) ![Git](https://img.shields.io/badge/-Git-334155?style=flat-square&labelColor=0F172A&logo=git&logoColor=white) ![JetBrains](https://img.shields.io/badge/-JetBrains-334155?style=flat-square&labelColor=0F172A&logo=jetbrains&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-334155?style=flat-square&labelColor=0F172A&logo=arduino&logoColor=white) ![Cryptography](https://img.shields.io/badge/-Cryptography-334155?style=flat-square&labelColor=0F172A&logo=letsencrypt&logoColor=white) |
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="28" height="28" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="28" height="28" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="28" height="28" alt="C#" title="C#" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="28" height="28" alt="C++" title="C++" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28" height="28" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="28" height="28" alt="HTML5" title="HTML5" />&nbsp;&nbsp;&nbsp;
-  <!-- Frameworks & Systems -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="28" height="28" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="28" height="28" alt="Linux" title="Linux" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="28" height="28" alt="Ubuntu" title="Ubuntu" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="28" height="28" alt="Bash" title="Bash" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width="28" height="28" alt="PuTTY" title="PuTTY" />&nbsp;&nbsp;&nbsp;
-  <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="28" height="28" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="28" height="28" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="28" height="28" alt="DigitalOcean" title="DigitalOcean" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="28" height="28" alt="Google Cloud" title="Google Cloud" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="28" height="28" alt="AWS" title="AWS" />&nbsp;&nbsp;&nbsp;
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" height="28" alt="Git" title="Git" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="28" height="28" alt="JetBrains" title="JetBrains" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="28" height="28" alt="Arduino" title="Arduino" />
-</p>
+### Support
 
----
-
-### Sponsorship
-
-<p align="left">
-  <a href="https://github.com/sponsors/eptheekshana"><img src="https://img.shields.io/badge/Sponsor_on_GitHub-27272A?style=flat&logo=githubsponsors&logoColor=EA4AAA" alt="GitHub Sponsors" /></a>
-  <a href="https://coff.ee/eptheekshana"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-27272A?style=flat&logo=buymeacoffee&logoColor=FFDD00" alt="Buy Me A Coffee" /></a>
-</p>
+<a href="https://github.com/sponsors/eptheekshana"><img src="https://img.shields.io/badge/-GitHub_Sponsors-334155?style=flat-square&labelColor=0F172A&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+<a href="https://coff.ee/eptheekshana"><img src="https://img.shields.io/badge/-Buy_Me_A_Coffee-334155?style=flat-square&labelColor=0F172A&logo=buymeacoffee&logoColor=white" alt="Buy Me A Coffee" /></a>
