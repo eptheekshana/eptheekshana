@@ -12,7 +12,7 @@
   <a href="https://instagram.com/eptheekshana"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
   <a href="https://facebook.com/eptheekshana"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
   <a href="https://tiktok.com/@eptheekshana"><img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="mailto:eptheekshana@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="mailto:hello@eptheekshana.dev"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
 <hr>
