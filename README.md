@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Glowing Live Status Banner -->
-<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 10px;">
+<!-- System Telemetry Status Bar -->
+<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 6px; padding: 8px;">
   <tr>
     <td align="left" style="padding-left: 15px;">
-      <code>🟢 STATUS: ONLINE &bull; KERNEL: UBUNTU LINUX</code>
+      <code>🟢 STATUS: ONLINE &bull; OS: UBUNTU LINUX</code>
     </td>
     <td align="right" style="padding-right: 15px;">
-      <code>SEC_LVL: ZERO-KNOWLEDGE</code>
+      <code>SECURITY: ZERO-KNOWLEDGE E2EE</code>
     </td>
   </tr>
 </table>
@@ -39,38 +39,47 @@
 
 ---
 
-### 📊 Engineering Metrics & Stack Proficiency
+### ⚙️ Technical Architecture & Stack
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><b>// CORE_LANGUAGES</b></h3>
       <p>
-        <code>Java</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████████ 90%<br>
-        <code>Python</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████░░ 80%<br>
-        <code>TypeScript</code> &nbsp;██████████░░ 80%<br>
-        <code>C# / .NET</code> &nbsp;&nbsp;█████████░░░ 75%<br>
-        <code>C++</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████████░░░░ 70%<br>
-        <code>JavaScript</code> &nbsp;█████████░░░ 75%
+        <img src="https://img.shields.io/badge/Java-21262D?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+        <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6" />
+        <img src="https://img.shields.io/badge/C%23-21262D?style=flat-square&logo=csharp&logoColor=512BD4" />
+        <img src="https://img.shields.io/badge/C++-21262D?style=flat-square&logo=cplusplus&logoColor=00599C" />
+        <img src="https://img.shields.io/badge/JavaScript-21262D?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=E34F26" />
+      </p>
+      
+      <h3><b>// SYSTEMS & SHELL</b></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=FCC624" />
+        <img src="https://img.shields.io/badge/Ubuntu-21262D?style=flat-square&logo=ubuntu&logoColor=E95420" />
+        <img src="https://img.shields.io/badge/Bash-21262D?style=flat-square&logo=gnubash&logoColor=4EAA25" />
+        <img src="https://img.shields.io/badge/OpenSSH-21262D?style=flat-square&logo=openssh&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/PuTTY-21262D?style=flat-square&logo=putty&logoColor=024097" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><b>// INFRASTRUCTURE & TOOLS</b></h3>
+      <h3><b>// CLOUD & DEVOPS</b></h3>
       <p>
         <img src="https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=2496ED" />
         <img src="https://img.shields.io/badge/Kubernetes-21262D?style=flat-square&logo=kubernetes&logoColor=326CE5" />
         <img src="https://img.shields.io/badge/AWS-21262D?style=flat-square&logo=amazonaws&logoColor=FF9900" />
         <img src="https://img.shields.io/badge/Google_Cloud-21262D?style=flat-square&logo=googlecloud&logoColor=4285F4" />
         <img src="https://img.shields.io/badge/DigitalOcean-21262D?style=flat-square&logo=digitalocean&logoColor=0080FF" />
-        <br>
-        <img src="https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=FCC624" />
-        <img src="https://img.shields.io/badge/Ubuntu-21262D?style=flat-square&logo=ubuntu&logoColor=E95420" />
-        <img src="https://img.shields.io/badge/Bash-21262D?style=flat-square&logo=gnubash&logoColor=4EAA25" />
-        <img src="https://img.shields.io/badge/OpenSSH-21262D?style=flat-square&logo=openssh&logoColor=FFFFFF" />
-        <br>
+      </p>
+
+      <h3><b>// FRAMEWORKS & TOOLING</b></h3>
+      <p>
         <img src="https://img.shields.io/badge/Spring_Boot-21262D?style=flat-square&logo=springboot&logoColor=6DB33F" />
         <img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032" />
         <img src="https://img.shields.io/badge/JetBrains-21262D?style=flat-square&logo=jetbrains&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/Arduino-21262D?style=flat-square&logo=arduino&logoColor=00979D" />
         <img src="https://img.shields.io/badge/Cryptography-21262D?style=flat-square&logo=letsencrypt&logoColor=10B981" />
       </p>
     </td>
@@ -88,5 +97,5 @@
 </p>
 
 <div align="center">
-  <code>// SYSTEM READY &bull; COMPILING PROFILE DATA...</code>
+  <code>// SYSTEM READY &bull; KERNEL STABLE</code>
 </div>
